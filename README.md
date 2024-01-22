@@ -4,7 +4,7 @@
 ## Introduction
 Art Namer leverages OpenAI's AI algorithms for creative image analysis and naming. Designed for artists and designers, it offers a unique blend of AI-driven insights and user interaction to generate and refine image titles.
 
-<img src='image_path_placeholder'>
+<img src='[image_path_placeholder](https://drive.google.com/uc?export=view&id=147Tme-MxEmqCSDaU3SPzR_78-QqAbZur)'>
 
 ## Installation
 To install Art Namer, follow these steps:

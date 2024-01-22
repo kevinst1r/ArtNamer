@@ -13,6 +13,9 @@ To install Art Namer, follow these steps:
 3. Run the `Install.bat` script by double-clicking it. This script will install Python (if not already installed) and all required dependencies.
 4. After the installation is complete, you can start the application by running `Run.bat`.
 
+## Configuration (IMPORTANT)
+Set your OpenAI API key in the `.env` file. Copy `.env.example` to a new file named `.env` and replace the placeholder with your actual OpenAI API key.
+
 ## Usage
 To use Art Namer, follow these steps:
 1. Start the application by executing `Run.bat`.
@@ -39,9 +42,6 @@ To use Art Namer, follow these steps:
 - OpenAI
 - python-dotenv
 - PyEnchant
-
-## Configuration (IMPORTANT)
-Set your OpenAI API key in the `.env` file. Copy `.env.example` to a new file named `.env` and replace the placeholder with your actual OpenAI API key.
 
 ## Examples
 An example scenario involves the user uploading an image, providing context, and using the AI-generated analysis and titles to come up with a unique name for the artwork.

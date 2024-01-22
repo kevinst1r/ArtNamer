@@ -8,10 +8,8 @@ Art Namer leverages OpenAI's AI algorithms for creative image analysis and namin
 
 ## Installation
 To install Art Namer, follow these steps:
-1. Ensure you have Python installed on your system. Art Namer requires Python 3.10 or later.
-2. Download the source code for Art Namer from the repository.
-3. Run the `Install.bat` script by double-clicking it. This script will install Python (if not already installed) and all required dependencies.
-4. After the installation is complete, you can start the application by running `Run.bat`.
+1. Run the `Install.bat` script by double-clicking it. This script will install Python (if not already installed) and all required dependencies. (You only need to tun this once)
+2. After the installation is complete, you can start the application by running `Run.bat`.
 
 ## Configuration (IMPORTANT)
 Set your OpenAI API key in the `.env` file. Copy `.env.example` to a new file named `.env` and replace the placeholder with your actual OpenAI API key.
